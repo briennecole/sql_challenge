@@ -28,6 +28,8 @@ Q4 Output Image:
 ![Screen Shot 2021-02-28 at 12 16 07 AM](https://user-images.githubusercontent.com/75045133/109411961-3e0d2b00-795a-11eb-8fda-eb6ab97e9388.png)
 
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+Q5 Output Image:
+
 
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
