@@ -50,3 +50,9 @@
 
 ## Epilogue
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+- Epilogue Output Image:
+
+![Screen Shot 2021-02-28 at 2 57 14 PM](https://user-images.githubusercontent.com/75045133/109436629-553d2e80-79d5-11eb-8ea2-7bbcf46d1b64.png)
+
+Cute.... Jokes on me.
+
