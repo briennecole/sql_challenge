@@ -23,13 +23,12 @@
 ![Screen Shot 2021-02-28 at 12 07 57 AM](https://user-images.githubusercontent.com/75045133/109411759-22edeb80-7959-11eb-81a7-01e97c9375e4.png)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
-Q4 Output Image:
+- Q4 Output Image:
 
 ![Screen Shot 2021-02-28 at 12 16 07 AM](https://user-images.githubusercontent.com/75045133/109411961-3e0d2b00-795a-11eb-8fda-eb6ab97e9388.png)
 
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
-Q5 Output Image:
-
+- Q5 Output Image:
 
 ![Screen Shot 2021-02-28 at 1 58 16 PM](https://user-images.githubusercontent.com/75045133/109435055-38046200-79cd-11eb-8605-bf97e8a21a71.png)
 
