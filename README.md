@@ -12,7 +12,10 @@
 ![Screen Shot 2021-02-27 at 11 06 50 PM](https://user-images.githubusercontent.com/75045133/109410722-b8857d00-7951-11eb-8fb3-08d837771e07.png)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
+- Q2 Output Image (36,150 people were hired in 1986):
 
+
+![Screen Shot 2021-02-27 at 11 30 44 PM](https://user-images.githubusercontent.com/75045133/109411040-fe434500-7953-11eb-8326-388f76b042d1.png)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
