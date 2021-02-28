@@ -43,3 +43,6 @@
 ![Screen Shot 2021-02-28 at 2 28 41 PM](https://user-images.githubusercontent.com/75045133/109435864-7ac83900-79d1-11eb-9538-1a1c51571b9f.png)
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+- Q8 Output Image
+
+![Screen Shot 2021-02-28 at 2 38 14 PM](https://user-images.githubusercontent.com/75045133/109436105-badbeb80-79d2-11eb-9c64-f5569182bd7b.png)
