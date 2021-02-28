@@ -38,6 +38,8 @@
 ![Screen Shot 2021-02-28 at 2 10 29 PM](https://user-images.githubusercontent.com/75045133/109435357-feccf180-79ce-11eb-9a52-4de8a9e81e65.png)
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+- Q7 Output Image
 
+![Screen Shot 2021-02-28 at 2 28 41 PM](https://user-images.githubusercontent.com/75045133/109435864-7ac83900-79d1-11eb-9538-1a1c51571b9f.png)
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
