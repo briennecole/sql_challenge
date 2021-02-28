@@ -1,1 +1,1 @@
-# Pewlett Hackard Analysis (Employees 1980-2000)
+# SQL Challenge - Pewlett Hackard Analysis (Employees 1980-2000)
