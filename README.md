@@ -7,7 +7,8 @@
 
 ## Analysis of data using assigned queries
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
-
+Q1 Output Image
+![Screen Shot 2021-02-27 at 11 06 50 PM](https://user-images.githubusercontent.com/75045133/109410722-b8857d00-7951-11eb-8fb3-08d837771e07.png)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
