@@ -18,7 +18,9 @@
 ![Screen Shot 2021-02-27 at 11 30 44 PM](https://user-images.githubusercontent.com/75045133/109411040-fe434500-7953-11eb-8326-388f76b042d1.png)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+- Q3 Output Image (24 Department Managers):
 
+![Screen Shot 2021-02-28 at 12 07 57 AM](https://user-images.githubusercontent.com/75045133/109411759-22edeb80-7959-11eb-81a7-01e97c9375e4.png)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
